@@ -560,12 +560,9 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </p>
                   </sp>
                </div>
-            </div>
-            <div n="1" type="act">
-               <pb n="6" facs="tcp:106708:7"/>
-               <head>ACT. I.</head>
                <div n="2" type="scene">
-                  <head>SCE. II.</head>
+               <pb n="6" facs="tcp:106708:7"/>
+                   <head>ACT. I. SCE. II.</head>
                   <stage>Enter <hi>Sebastus. Constantinus.</hi>
                   </stage>
                   <sp>
@@ -680,11 +677,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="1" type="act">
-               <head>ACT. I.</head>
                <div n="3" type="scene">
-                  <head>SCE. III.</head>
+                  <head>ACT. I. SCE. III.</head>
                   <stage>Enter <hi>Philo solus with a Letter in his hand.</hi>
                   </stage>
                   <sp>
@@ -935,11 +929,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                   </stage>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="1" type="act">
-               <head>ACT. I.</head>
                <div n="4" type="scene">
-                  <head>SCE. IV.</head>
+                  <head>ACT. I. SCE. IV.</head>
                   <stage>Enter <hi>Constantinus, Stephanus, Basilius.</hi>
                   </stage>
                   <sp>
@@ -1242,11 +1233,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="1" type="act">
-               <head>ACT. I.</head>
                <div n="5" type="scene">
-                  <head>SCE. V.</head>
+                  <head>ACT. I. SCE. V.</head>
                   <stage>
                      <hi>Enter</hi> Andronicus <hi>solus.</hi>
                   </stage>
@@ -1730,11 +1718,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="2" type="act">
-               <head>ACT. II.</head>
                <div n="2" type="scene">
-                  <head>SCE. II.</head>
+                  <head>ACT. II. SCE. II.</head>
                   <stage>Enter <hi>Mamalus Solus.</hi>
                   </stage>
                   <sp>
@@ -1919,12 +1904,9 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                   </sp>
                   <stage>Exeunt: by several waies</stage>
                </div>
-            </div>
-            <div n="2" type="act">
-               <pb n="27" facs="tcp:106708:17"/>
-               <head>ACT. II.</head>
                <div n="3" type="scene">
-                  <head>SCE. III.</head>
+               <pb n="27" facs="tcp:106708:17"/>
+                  <head>ACT. II. SCE. III.</head>
                   <stage>Enter <hi>Andronicus, and Philo.</hi>
                   </stage>
                   <sp>
@@ -2144,11 +2126,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      <l>They'll credit us when they are seen at full.</l>
                   </sp>
                </div>
-            </div>
-            <div n="2" type="act">
-               <head>ACT. II.</head>
                <div n="4" type="scene">
-                  <head>SCE. IV.</head>
+                  <head>ACT. II. SCE. IV.</head>
                   <stage>
                      <hi>Enter</hi> Philo <hi>and</hi> 4 <hi>Cittizens drunk.</hi>
                   </stage>
@@ -2867,11 +2846,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </p>
                   </sp>
                </div>
-            </div>
-            <div n="3" type="act">
-               <head>ACT. III.</head>
                <div n="2" type="scene">
-                  <head>SCE. II.</head>
+                  <head>ACT. III. SCE. II.</head>
                   <stage>
                      <hi>Enter</hi> Philo <hi>and Citizens.</hi>
                   </stage>
@@ -3143,11 +3119,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="3" type="act">
-               <head>ACT. III.</head>
                <div n="3" type="scene">
-                  <head>SCE. III.</head>
+                  <head>ACT. III. SCE. III.</head>
                   <stage>Enter <hi>Conto, Lapardas, Ducas.</hi>
                   </stage>
                   <sp>
@@ -3467,11 +3440,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </p>
                   </sp>
                </div>
-            </div>
-            <div n="3" type="act">
-               <head>ACT. III.</head>
                <div n="4" type="scene">
-                  <head>SCE. IV.</head>
+                  <head>ACT. III. SCE. IV.</head>
                   <stage>Enter <hi>Mannuel, Philo.</hi>
                   </stage>
                   <sp>
@@ -3701,11 +3671,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="3" type="act">
-               <head>ACT. III.</head>
                <div n="5" type="scene">
-                  <head>SCE. V.</head>
+                  <head>ACT. III. SCE. V.</head>
                   <stage>Enter <hi>And. Steph. Bas. — (shouts within.</hi>)</stage>
                   <sp>
                      <speaker>ANd.</speaker>
@@ -4123,11 +4090,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="4" type="act">
-               <head>ACT. IV.</head>
                <div n="2" type="scene">
-                  <head>SCE. II.</head>
+                  <head>ACT. IV.  SCE. II.</head>
                   <stage>Enter <hi>Cont. Lap. Du. Const. Mam.</hi>
                   </stage>
                   <sp>
@@ -4410,11 +4374,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="4" type="act">
-               <head>ACT. IV.</head>
                <div n="3" type="scene">
-                  <head>SCE. III.</head>
+                  <head>ACT. IV. SCE. III.</head>
                   <stage>Enter <hi>Andronicus solus.</hi>
                   </stage>
                   <l>NOw I can say I live, and not till now:</l>
@@ -4676,11 +4637,8 @@ Let me not seem immodest if I close all with that of <hi>Plautus</hi>
                      <l>Love tricks? —'My life she comes at t'other pluck:</l>
                   </sp>
                </div>
-            </div>
-            <div n="4" type="act">
-               <head>ACT. IV.</head>
                <div n="4" type="scene">
-                  <head>SCE. IV.</head>
+                  <head>ACT. IV. SCE. IV.</head>
                   <stage>Enter <hi>Stephanus solus.</hi>
                   </stage>
                   <sp>
@@ -4783,11 +4741,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="4" type="act">
-               <head>ACT. IV.</head>
                <div n="5" type="scene">
-                  <head>SCE. V.</head>
+                  <head>ACT. IV. SCE. V.</head>
                   <stage>Enter <hi>Andronicus solus.</hi>
                   </stage>
                   <sp>
@@ -5209,12 +5164,9 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <pb n="72" facs="tcp:106708:40"/>
-               <head>ACT V.</head>
                <div n="2" type="scene">
-                  <head>SCE. II.</head>
+               <pb n="72" facs="tcp:106708:40"/>
+                  <head>ACT V. SCE. II.</head>
                   <stage>Enter <hi>Andronicus Solus.</hi>
                   </stage>
                   <sp>
@@ -5338,11 +5290,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>ACT. V.</head>
                <div n="3" type="scene">
-                  <head>SCE. III.</head>
+                  <head>ACT. V. SCE. III.</head>
                   <stage>Enter <hi>a Rabble of Citizens.</hi>
                   </stage>
                   <sp>
@@ -5742,11 +5691,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </p>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>ACT. V.</head>
                <div n="4" type="scene">
-                  <head>SCE. IV.</head>
+                  <head>ACT. V. SCE. IV.</head>
                   <stage>Enter <hi>Andronicus. Stephanus.</hi>
                   </stage>
                   <sp>
@@ -5858,11 +5804,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>ACT. V.</head>
                <div n="5" type="scene">
-                  <head>SCE. V.</head>
+                  <head>ACT. V. SCE. V.</head>
                   <stage>Enter <hi>Citizens and Rabble.</hi>
                   </stage>
                   <sp>
@@ -5979,11 +5922,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>ACT V.</head>
                <div n="6" type="scene">
-                  <head>SCE. VI.</head>
+                  <head>ACT V. SCE. VI.</head>
                   <stage>Enter <hi>Andronicus with his Sword drawn and a Servant.</hi>
                   </stage>
                   <sp>
@@ -6075,11 +6015,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>ACT V.</head>
                <div n="7" type="scene">
-                  <head>SCE. VII.</head>
+                  <head>ACT V. SCE. VII.</head>
                   <stage>Enter <hi>Constantinus. Isacius and Citizens.</hi>
                   </stage>
                   <sp>
@@ -6137,11 +6074,8 @@ by the discovery of a new plot; —The thing takes — <hi>An<g ref="char:EOLhyp
                      </l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>ACT. V.</head>
                <div n="8" type="scene">
-                  <head>SCE. VIII.</head>
+                  <head>ACT. V. SCE. VIII.</head>
                   <stage>Enter <hi>Manuel solus.</hi>
                   </stage>
                   <sp>
